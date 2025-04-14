@@ -1,9 +1,12 @@
 # OpenBook 
-<img src="Images/OpenBook2.png" alt="Logo" width="250"/>
-<img src="Images/OpenBook1.png" alt="Logo" width="250"/>
-<img src="Images/PCB1.png" alt="Logo" width="250"/>
-<img src="Images/Battery.png" alt="Logo" width="250"/>
-<img src="Images/Display.png" alt="Logo" width="250"/>
+
+<p align="center">
+  <img src="Images/OpenBook2.png" width="250"/>
+  <img src="Images/OpenBook1.png" width="250"/>
+  <img src="Images/PCB1.png" width="250"/>
+  <img src="Images/Battery.png" width="250"/>
+  <img src="Images/Display.png" width="250"/>
+</p>
 
 ## Implementation Steps
 
